@@ -1,433 +1,433 @@
 Year,Sex,Education,Region,Value,EduBucket
-2019,Both sexes,Less than primary (Level 0),Eastern and Midland,,Other
-2019,Both sexes,Level of education - not stated,Eastern and Midland,74.3,Other
-2019,Both sexes,Levels of Education (Levels  0-8),Eastern and Midland,76.6,Other
-2019,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,53.9,Low
-2019,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,86.2,Other
-2019,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,72.5,Medium
-2019,Female,Less than primary (Level 0),Eastern and Midland,,Other
-2019,Female,Level of education - not stated,Eastern and Midland,67.4,Other
-2019,Female,Levels of Education (Levels  0-8),Eastern and Midland,70.4,Other
-2019,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,40.4,Low
-2019,Female,Tertiary education (Levels 5-8),Eastern and Midland,82.1,Other
-2019,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,64.4,Medium
-2019,Male,Less than primary (Level 0),Eastern and Midland,,Other
-2019,Male,Level of education - not stated,Eastern and Midland,80.4,Other
-2019,Male,Levels of Education (Levels  0-8),Eastern and Midland,82.9,Other
-2019,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,65.3,Low
-2019,Male,Tertiary education (Levels 5-8),Eastern and Midland,90.8,Other
-2019,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,80.4,Medium
-2019,Both sexes,Less than primary (Level 0),Ireland,,Other
-2019,Both sexes,Level of education - not stated,Ireland,72.1,Other
 2019,Both sexes,Levels of Education (Levels  0-8),Ireland,74.9,Other
-2019,Both sexes,Primary and lower secondary education (Levels 1-2),Ireland,52.8,Low
-2019,Both sexes,Tertiary education (Levels 5-8),Ireland,84.9,Other
-2019,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,72.3,Medium
-2019,Female,Less than primary (Level 0),Ireland,,Other
-2019,Female,Level of education - not stated,Ireland,64.9,Other
-2019,Female,Levels of Education (Levels  0-8),Ireland,68.7,Other
-2019,Female,Primary and lower secondary education (Levels 1-2),Ireland,37.5,Low
-2019,Female,Tertiary education (Levels 5-8),Ireland,81.0,Other
-2019,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,63.8,Medium
-2019,Male,Less than primary (Level 0),Ireland,,Other
-2019,Male,Level of education - not stated,Ireland,78.7,Other
-2019,Male,Levels of Education (Levels  0-8),Ireland,81.3,Other
-2019,Male,Primary and lower secondary education (Levels 1-2),Ireland,64.1,Low
-2019,Male,Tertiary education (Levels 5-8),Ireland,89.7,Other
-2019,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,80.5,Medium
-2019,Both sexes,Less than primary (Level 0),Northern and Western,,Other
-2019,Both sexes,Level of education - not stated,Northern and Western,74.4,Other
 2019,Both sexes,Levels of Education (Levels  0-8),Northern and Western,74.0,Other
-2019,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,55.7,Low
-2019,Both sexes,Tertiary education (Levels 5-8),Northern and Western,82.9,Other
-2019,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,73.1,Medium
-2019,Female,Less than primary (Level 0),Northern and Western,,Other
-2019,Female,Level of education - not stated,Northern and Western,64.2,Other
-2019,Female,Levels of Education (Levels  0-8),Northern and Western,67.8,Other
-2019,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,36.2,Low
-2019,Female,Tertiary education (Levels 5-8),Northern and Western,78.9,Other
-2019,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,65.1,Medium
-2019,Male,Less than primary (Level 0),Northern and Western,,Other
-2019,Male,Level of education - not stated,Northern and Western,84.2,Other
-2019,Male,Levels of Education (Levels  0-8),Northern and Western,80.3,Other
-2019,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,66.8,Low
-2019,Male,Tertiary education (Levels 5-8),Northern and Western,88.4,Other
-2019,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,80.9,Medium
-2019,Both sexes,Less than primary (Level 0),Southern,,Other
-2019,Both sexes,Level of education - not stated,Southern,68.4,Other
 2019,Both sexes,Levels of Education (Levels  0-8),Southern,72.8,Other
+2019,Both sexes,Levels of Education (Levels  0-8),Eastern and Midland,76.6,Other
+2019,Both sexes,Less than primary (Level 0),Ireland,,Other
+2019,Both sexes,Less than primary (Level 0),Northern and Western,,Other
+2019,Both sexes,Less than primary (Level 0),Southern,,Other
+2019,Both sexes,Less than primary (Level 0),Eastern and Midland,,Other
+2019,Both sexes,Primary and lower secondary education (Levels 1-2),Ireland,52.8,Low
+2019,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,55.7,Low
 2019,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,49.6,Low
-2019,Both sexes,Tertiary education (Levels 5-8),Southern,83.7,Other
+2019,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,53.9,Low
+2019,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,72.3,Medium
+2019,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,73.1,Medium
 2019,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,71.7,Medium
-2019,Female,Less than primary (Level 0),Southern,,Other
-2019,Female,Level of education - not stated,Southern,62.2,Other
-2019,Female,Levels of Education (Levels  0-8),Southern,66.5,Other
-2019,Female,Primary and lower secondary education (Levels 1-2),Southern,33.9,Low
-2019,Female,Tertiary education (Levels 5-8),Southern,80.4,Other
-2019,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,62.2,Medium
-2019,Male,Less than primary (Level 0),Southern,,Other
-2019,Male,Level of education - not stated,Southern,74.3,Other
+2019,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,72.5,Medium
+2019,Both sexes,Tertiary education (Levels 5-8),Ireland,84.9,High
+2019,Both sexes,Tertiary education (Levels 5-8),Northern and Western,82.9,High
+2019,Both sexes,Tertiary education (Levels 5-8),Southern,83.7,High
+2019,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,86.2,High
+2019,Both sexes,Level of education - not stated,Ireland,72.1,Other
+2019,Both sexes,Level of education - not stated,Northern and Western,74.4,Other
+2019,Both sexes,Level of education - not stated,Southern,68.4,Other
+2019,Both sexes,Level of education - not stated,Eastern and Midland,74.3,Other
+2019,Male,Levels of Education (Levels  0-8),Ireland,81.3,Other
+2019,Male,Levels of Education (Levels  0-8),Northern and Western,80.3,Other
 2019,Male,Levels of Education (Levels  0-8),Southern,79.2,Other
+2019,Male,Levels of Education (Levels  0-8),Eastern and Midland,82.9,Other
+2019,Male,Less than primary (Level 0),Ireland,,Other
+2019,Male,Less than primary (Level 0),Northern and Western,,Other
+2019,Male,Less than primary (Level 0),Southern,,Other
+2019,Male,Less than primary (Level 0),Eastern and Midland,,Other
+2019,Male,Primary and lower secondary education (Levels 1-2),Ireland,64.1,Low
+2019,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,66.8,Low
 2019,Male,Primary and lower secondary education (Levels 1-2),Southern,60.9,Low
-2019,Male,Tertiary education (Levels 5-8),Southern,87.9,Other
+2019,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,65.3,Low
+2019,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,80.5,Medium
+2019,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,80.9,Medium
 2019,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,80.5,Medium
-2020,Both sexes,Less than primary (Level 0),Eastern and Midland,,Other
-2020,Both sexes,Level of education - not stated,Eastern and Midland,71.5,Other
-2020,Both sexes,Levels of Education (Levels  0-8),Eastern and Midland,73.2,Other
-2020,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,50.1,Low
-2020,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,83.3,Other
-2020,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,67.2,Medium
-2020,Female,Less than primary (Level 0),Eastern and Midland,,Other
-2020,Female,Level of education - not stated,Eastern and Midland,63.5,Other
-2020,Female,Levels of Education (Levels  0-8),Eastern and Midland,66.8,Other
-2020,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,37.2,Low
-2020,Female,Tertiary education (Levels 5-8),Eastern and Midland,79.0,Other
-2020,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,58.0,Medium
-2020,Male,Less than primary (Level 0),Eastern and Midland,,Other
-2020,Male,Level of education - not stated,Eastern and Midland,78.4,Other
-2020,Male,Levels of Education (Levels  0-8),Eastern and Midland,79.8,Other
-2020,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,60.8,Low
-2020,Male,Tertiary education (Levels 5-8),Eastern and Midland,88.2,Other
-2020,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,76.3,Medium
-2020,Both sexes,Less than primary (Level 0),Ireland,,Other
-2020,Both sexes,Level of education - not stated,Ireland,69.3,Other
+2019,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,80.4,Medium
+2019,Male,Tertiary education (Levels 5-8),Ireland,89.7,High
+2019,Male,Tertiary education (Levels 5-8),Northern and Western,88.4,High
+2019,Male,Tertiary education (Levels 5-8),Southern,87.9,High
+2019,Male,Tertiary education (Levels 5-8),Eastern and Midland,90.8,High
+2019,Male,Level of education - not stated,Ireland,78.7,Other
+2019,Male,Level of education - not stated,Northern and Western,84.2,Other
+2019,Male,Level of education - not stated,Southern,74.3,Other
+2019,Male,Level of education - not stated,Eastern and Midland,80.4,Other
+2019,Female,Levels of Education (Levels  0-8),Ireland,68.7,Other
+2019,Female,Levels of Education (Levels  0-8),Northern and Western,67.8,Other
+2019,Female,Levels of Education (Levels  0-8),Southern,66.5,Other
+2019,Female,Levels of Education (Levels  0-8),Eastern and Midland,70.4,Other
+2019,Female,Less than primary (Level 0),Ireland,,Other
+2019,Female,Less than primary (Level 0),Northern and Western,,Other
+2019,Female,Less than primary (Level 0),Southern,,Other
+2019,Female,Less than primary (Level 0),Eastern and Midland,,Other
+2019,Female,Primary and lower secondary education (Levels 1-2),Ireland,37.5,Low
+2019,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,36.2,Low
+2019,Female,Primary and lower secondary education (Levels 1-2),Southern,33.9,Low
+2019,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,40.4,Low
+2019,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,63.8,Medium
+2019,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,65.1,Medium
+2019,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,62.2,Medium
+2019,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,64.4,Medium
+2019,Female,Tertiary education (Levels 5-8),Ireland,81.0,High
+2019,Female,Tertiary education (Levels 5-8),Northern and Western,78.9,High
+2019,Female,Tertiary education (Levels 5-8),Southern,80.4,High
+2019,Female,Tertiary education (Levels 5-8),Eastern and Midland,82.1,High
+2019,Female,Level of education - not stated,Ireland,64.9,Other
+2019,Female,Level of education - not stated,Northern and Western,64.2,Other
+2019,Female,Level of education - not stated,Southern,62.2,Other
+2019,Female,Level of education - not stated,Eastern and Midland,67.4,Other
 2020,Both sexes,Levels of Education (Levels  0-8),Ireland,72.0,Other
-2020,Both sexes,Primary and lower secondary education (Levels 1-2),Ireland,50.4,Low
-2020,Both sexes,Tertiary education (Levels 5-8),Ireland,82.7,Other
-2020,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,66.8,Medium
-2020,Female,Less than primary (Level 0),Ireland,,Other
-2020,Female,Level of education - not stated,Ireland,62.6,Other
-2020,Female,Levels of Education (Levels  0-8),Ireland,65.7,Other
-2020,Female,Primary and lower secondary education (Levels 1-2),Ireland,34.8,Low
-2020,Female,Tertiary education (Levels 5-8),Ireland,78.7,Other
-2020,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,57.5,Medium
-2020,Male,Less than primary (Level 0),Ireland,,Other
-2020,Male,Level of education - not stated,Ireland,75.2,Other
-2020,Male,Levels of Education (Levels  0-8),Ireland,78.5,Other
-2020,Male,Primary and lower secondary education (Levels 1-2),Ireland,61.8,Low
-2020,Male,Tertiary education (Levels 5-8),Ireland,87.5,Other
-2020,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,75.7,Medium
-2020,Both sexes,Less than primary (Level 0),Northern and Western,,Other
-2020,Both sexes,Level of education - not stated,Northern and Western,67.2,Other
 2020,Both sexes,Levels of Education (Levels  0-8),Northern and Western,70.9,Other
-2020,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,54.3,Low
-2020,Both sexes,Tertiary education (Levels 5-8),Northern and Western,80.9,Other
-2020,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,66.3,Medium
-2020,Female,Less than primary (Level 0),Northern and Western,,Other
-2020,Female,Level of education - not stated,Northern and Western,58.6,Other
-2020,Female,Levels of Education (Levels  0-8),Northern and Western,64.6,Other
-2020,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,32.8,Low
-2020,Female,Tertiary education (Levels 5-8),Northern and Western,77.6,Other
-2020,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,56.9,Medium
-2020,Male,Less than primary (Level 0),Northern and Western,,Other
-2020,Male,Level of education - not stated,Northern and Western,73.5,Other
-2020,Male,Levels of Education (Levels  0-8),Northern and Western,77.4,Other
-2020,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,66.5,Low
-2020,Male,Tertiary education (Levels 5-8),Northern and Western,85.3,Other
-2020,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,75.4,Medium
-2020,Both sexes,Less than primary (Level 0),Southern,,Other
-2020,Both sexes,Level of education - not stated,Southern,67.4,Other
 2020,Both sexes,Levels of Education (Levels  0-8),Southern,70.7,Other
+2020,Both sexes,Levels of Education (Levels  0-8),Eastern and Midland,73.2,Other
+2020,Both sexes,Less than primary (Level 0),Ireland,,Other
+2020,Both sexes,Less than primary (Level 0),Northern and Western,,Other
+2020,Both sexes,Less than primary (Level 0),Southern,,Other
+2020,Both sexes,Less than primary (Level 0),Eastern and Midland,,Other
+2020,Both sexes,Primary and lower secondary education (Levels 1-2),Ireland,50.4,Low
+2020,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,54.3,Low
 2020,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,49.0,Low
-2020,Both sexes,Tertiary education (Levels 5-8),Southern,82.5,Other
+2020,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,50.1,Low
+2020,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,66.8,Medium
+2020,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,66.3,Medium
 2020,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,66.6,Medium
-2020,Female,Less than primary (Level 0),Southern,,Other
-2020,Female,Level of education - not stated,Southern,63.2,Other
-2020,Female,Levels of Education (Levels  0-8),Southern,64.6,Other
-2020,Female,Primary and lower secondary education (Levels 1-2),Southern,32.3,Low
-2020,Female,Tertiary education (Levels 5-8),Southern,78.8,Other
-2020,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,57.2,Medium
-2020,Male,Less than primary (Level 0),Southern,,Other
-2020,Male,Level of education - not stated,Southern,71.8,Other
+2020,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,67.2,Medium
+2020,Both sexes,Tertiary education (Levels 5-8),Ireland,82.7,High
+2020,Both sexes,Tertiary education (Levels 5-8),Northern and Western,80.9,High
+2020,Both sexes,Tertiary education (Levels 5-8),Southern,82.5,High
+2020,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,83.3,High
+2020,Both sexes,Level of education - not stated,Ireland,69.3,Other
+2020,Both sexes,Level of education - not stated,Northern and Western,67.2,Other
+2020,Both sexes,Level of education - not stated,Southern,67.4,Other
+2020,Both sexes,Level of education - not stated,Eastern and Midland,71.5,Other
+2020,Male,Levels of Education (Levels  0-8),Ireland,78.5,Other
+2020,Male,Levels of Education (Levels  0-8),Northern and Western,77.4,Other
 2020,Male,Levels of Education (Levels  0-8),Southern,76.9,Other
+2020,Male,Levels of Education (Levels  0-8),Eastern and Midland,79.8,Other
+2020,Male,Less than primary (Level 0),Ireland,,Other
+2020,Male,Less than primary (Level 0),Northern and Western,,Other
+2020,Male,Less than primary (Level 0),Southern,,Other
+2020,Male,Less than primary (Level 0),Eastern and Midland,,Other
+2020,Male,Primary and lower secondary education (Levels 1-2),Ireland,61.8,Low
+2020,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,66.5,Low
 2020,Male,Primary and lower secondary education (Levels 1-2),Southern,60.6,Low
-2020,Male,Tertiary education (Levels 5-8),Southern,87.2,Other
+2020,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,60.8,Low
+2020,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,75.7,Medium
+2020,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,75.4,Medium
 2020,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,75.2,Medium
-2021,Both sexes,Less than primary (Level 0),Eastern and Midland,,Other
-2021,Both sexes,Level of education - not stated,Eastern and Midland,63.7,Other
-2021,Both sexes,Levels of Education (Levels  0-8),Eastern and Midland,75.9,Other
-2021,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,52.9,Low
-2021,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,85.7,Other
-2021,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,69.0,Medium
-2021,Female,Less than primary (Level 0),Eastern and Midland,,Other
-2021,Female,Level of education - not stated,Eastern and Midland,65.2,Other
-2021,Female,Levels of Education (Levels  0-8),Eastern and Midland,71.3,Other
-2021,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,35.7,Low
-2021,Female,Tertiary education (Levels 5-8),Eastern and Midland,83.1,Other
-2021,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,61.6,Medium
-2021,Male,Less than primary (Level 0),Eastern and Midland,,Other
-2021,Male,Level of education - not stated,Eastern and Midland,62.8,Other
-2021,Male,Levels of Education (Levels  0-8),Eastern and Midland,80.6,Other
-2021,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,65.9,Low
-2021,Male,Tertiary education (Levels 5-8),Eastern and Midland,88.7,Other
-2021,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,76.1,Medium
-2021,Both sexes,Less than primary (Level 0),Ireland,,Other
-2021,Both sexes,Level of education - not stated,Ireland,63.9,Other
+2020,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,76.3,Medium
+2020,Male,Tertiary education (Levels 5-8),Ireland,87.5,High
+2020,Male,Tertiary education (Levels 5-8),Northern and Western,85.3,High
+2020,Male,Tertiary education (Levels 5-8),Southern,87.2,High
+2020,Male,Tertiary education (Levels 5-8),Eastern and Midland,88.2,High
+2020,Male,Level of education - not stated,Ireland,75.2,Other
+2020,Male,Level of education - not stated,Northern and Western,73.5,Other
+2020,Male,Level of education - not stated,Southern,71.8,Other
+2020,Male,Level of education - not stated,Eastern and Midland,78.4,Other
+2020,Female,Levels of Education (Levels  0-8),Ireland,65.7,Other
+2020,Female,Levels of Education (Levels  0-8),Northern and Western,64.6,Other
+2020,Female,Levels of Education (Levels  0-8),Southern,64.6,Other
+2020,Female,Levels of Education (Levels  0-8),Eastern and Midland,66.8,Other
+2020,Female,Less than primary (Level 0),Ireland,,Other
+2020,Female,Less than primary (Level 0),Northern and Western,,Other
+2020,Female,Less than primary (Level 0),Southern,,Other
+2020,Female,Less than primary (Level 0),Eastern and Midland,,Other
+2020,Female,Primary and lower secondary education (Levels 1-2),Ireland,34.8,Low
+2020,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,32.8,Low
+2020,Female,Primary and lower secondary education (Levels 1-2),Southern,32.3,Low
+2020,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,37.2,Low
+2020,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,57.5,Medium
+2020,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,56.9,Medium
+2020,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,57.2,Medium
+2020,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,58.0,Medium
+2020,Female,Tertiary education (Levels 5-8),Ireland,78.7,High
+2020,Female,Tertiary education (Levels 5-8),Northern and Western,77.6,High
+2020,Female,Tertiary education (Levels 5-8),Southern,78.8,High
+2020,Female,Tertiary education (Levels 5-8),Eastern and Midland,79.0,High
+2020,Female,Level of education - not stated,Ireland,62.6,Other
+2020,Female,Level of education - not stated,Northern and Western,58.6,Other
+2020,Female,Level of education - not stated,Southern,63.2,Other
+2020,Female,Level of education - not stated,Eastern and Midland,63.5,Other
 2021,Both sexes,Levels of Education (Levels  0-8),Ireland,74.9,Other
-2021,Both sexes,Primary and lower secondary education (Levels 1-2),Ireland,52.1,Low
-2021,Both sexes,Tertiary education (Levels 5-8),Ireland,85.2,Other
-2021,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,69.7,Medium
-2021,Female,Less than primary (Level 0),Ireland,,Other
-2021,Female,Level of education - not stated,Ireland,64.0,Other
-2021,Female,Levels of Education (Levels  0-8),Ireland,69.9,Other
-2021,Female,Primary and lower secondary education (Levels 1-2),Ireland,33.0,Low
-2021,Female,Tertiary education (Levels 5-8),Ireland,82.2,Other
-2021,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,61.7,Medium
-2021,Male,Less than primary (Level 0),Ireland,,Other
-2021,Male,Level of education - not stated,Ireland,63.8,Other
-2021,Male,Levels of Education (Levels  0-8),Ireland,80.1,Other
-2021,Male,Primary and lower secondary education (Levels 1-2),Ireland,64.6,Low
-2021,Male,Tertiary education (Levels 5-8),Ireland,88.7,Other
-2021,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,77.3,Medium
-2021,Both sexes,Less than primary (Level 0),Northern and Western,,Other
-2021,Both sexes,Level of education - not stated,Northern and Western,76.3,Other
 2021,Both sexes,Levels of Education (Levels  0-8),Northern and Western,76.0,Other
-2021,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,57.3,Low
-2021,Both sexes,Tertiary education (Levels 5-8),Northern and Western,86.1,Other
-2021,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,71.1,Medium
-2021,Female,Less than primary (Level 0),Northern and Western,,Other
-2021,Female,Level of education - not stated,Northern and Western,,Other
-2021,Female,Levels of Education (Levels  0-8),Northern and Western,69.7,Other
-2021,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,33.5,Low
-2021,Female,Tertiary education (Levels 5-8),Northern and Western,83.0,Other
-2021,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,61.5,Medium
-2021,Male,Less than primary (Level 0),Northern and Western,,Other
-2021,Male,Level of education - not stated,Northern and Western,,Other
-2021,Male,Levels of Education (Levels  0-8),Northern and Western,82.4,Other
-2021,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,69.3,Low
-2021,Male,Tertiary education (Levels 5-8),Northern and Western,90.1,Other
-2021,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,80.6,Medium
-2021,Both sexes,Less than primary (Level 0),Southern,,Other
-2021,Both sexes,Level of education - not stated,Southern,57.0,Other
 2021,Both sexes,Levels of Education (Levels  0-8),Southern,72.9,Other
+2021,Both sexes,Levels of Education (Levels  0-8),Eastern and Midland,75.9,Other
+2021,Both sexes,Less than primary (Level 0),Ireland,,Other
+2021,Both sexes,Less than primary (Level 0),Northern and Western,,Other
+2021,Both sexes,Less than primary (Level 0),Southern,,Other
+2021,Both sexes,Less than primary (Level 0),Eastern and Midland,,Other
+2021,Both sexes,Primary and lower secondary education (Levels 1-2),Ireland,52.1,Low
+2021,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,57.3,Low
 2021,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,48.2,Low
-2021,Both sexes,Tertiary education (Levels 5-8),Southern,83.8,Other
+2021,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,52.9,Low
+2021,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,69.7,Medium
+2021,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,71.1,Medium
 2021,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,69.9,Medium
-2021,Female,Less than primary (Level 0),Southern,,Other
-2021,Female,Level of education - not stated,Southern,60.6,Other
-2021,Female,Levels of Education (Levels  0-8),Southern,67.7,Other
-2021,Female,Primary and lower secondary education (Levels 1-2),Southern,28.5,Low
-2021,Female,Tertiary education (Levels 5-8),Southern,80.2,Other
-2021,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,61.9,Medium
-2021,Male,Less than primary (Level 0),Southern,,Other
-2021,Male,Level of education - not stated,Southern,52.8,Other
+2021,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,69.0,Medium
+2021,Both sexes,Tertiary education (Levels 5-8),Ireland,85.2,High
+2021,Both sexes,Tertiary education (Levels 5-8),Northern and Western,86.1,High
+2021,Both sexes,Tertiary education (Levels 5-8),Southern,83.8,High
+2021,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,85.7,High
+2021,Both sexes,Level of education - not stated,Ireland,63.9,Other
+2021,Both sexes,Level of education - not stated,Northern and Western,76.3,Other
+2021,Both sexes,Level of education - not stated,Southern,57.0,Other
+2021,Both sexes,Level of education - not stated,Eastern and Midland,63.7,Other
+2021,Male,Levels of Education (Levels  0-8),Ireland,80.1,Other
+2021,Male,Levels of Education (Levels  0-8),Northern and Western,82.4,Other
 2021,Male,Levels of Education (Levels  0-8),Southern,78.2,Other
+2021,Male,Levels of Education (Levels  0-8),Eastern and Midland,80.6,Other
+2021,Male,Less than primary (Level 0),Ireland,,Other
+2021,Male,Less than primary (Level 0),Northern and Western,,Other
+2021,Male,Less than primary (Level 0),Southern,,Other
+2021,Male,Less than primary (Level 0),Eastern and Midland,,Other
+2021,Male,Primary and lower secondary education (Levels 1-2),Ireland,64.6,Low
+2021,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,69.3,Low
 2021,Male,Primary and lower secondary education (Levels 1-2),Southern,60.2,Low
-2021,Male,Tertiary education (Levels 5-8),Southern,88.1,Other
+2021,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,65.9,Low
+2021,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,77.3,Medium
+2021,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,80.6,Medium
 2021,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,77.4,Medium
-2022,Both sexes,Less than primary (Level 0),Eastern and Midland,,Other
-2022,Both sexes,Level of education - not stated,Eastern and Midland,68.3,Other
-2022,Both sexes,Levels of Education (Levels  0-8),Eastern and Midland,79.0,Other
-2022,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,53.2,Low
-2022,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,87.8,Other
-2022,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,73.7,Medium
-2022,Female,Less than primary (Level 0),Eastern and Midland,,Other
-2022,Female,Level of education - not stated,Eastern and Midland,,Other
-2022,Female,Levels of Education (Levels  0-8),Eastern and Midland,73.5,Other
-2022,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,38.5,Low
-2022,Female,Tertiary education (Levels 5-8),Eastern and Midland,83.6,Other
-2022,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,66.2,Medium
-2022,Male,Less than primary (Level 0),Eastern and Midland,,Other
-2022,Male,Level of education - not stated,Eastern and Midland,63.2,Other
-2022,Male,Levels of Education (Levels  0-8),Eastern and Midland,84.6,Other
-2022,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,65.4,Low
-2022,Male,Tertiary education (Levels 5-8),Eastern and Midland,92.4,Other
-2022,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,81.2,Medium
-2022,Both sexes,Less than primary (Level 0),Ireland,,Other
-2022,Both sexes,Level of education - not stated,Ireland,73.8,Other
+2021,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,76.1,Medium
+2021,Male,Tertiary education (Levels 5-8),Ireland,88.7,High
+2021,Male,Tertiary education (Levels 5-8),Northern and Western,90.1,High
+2021,Male,Tertiary education (Levels 5-8),Southern,88.1,High
+2021,Male,Tertiary education (Levels 5-8),Eastern and Midland,88.7,High
+2021,Male,Level of education - not stated,Ireland,63.8,Other
+2021,Male,Level of education - not stated,Northern and Western,,Other
+2021,Male,Level of education - not stated,Southern,52.8,Other
+2021,Male,Level of education - not stated,Eastern and Midland,62.8,Other
+2021,Female,Levels of Education (Levels  0-8),Ireland,69.9,Other
+2021,Female,Levels of Education (Levels  0-8),Northern and Western,69.7,Other
+2021,Female,Levels of Education (Levels  0-8),Southern,67.7,Other
+2021,Female,Levels of Education (Levels  0-8),Eastern and Midland,71.3,Other
+2021,Female,Less than primary (Level 0),Ireland,,Other
+2021,Female,Less than primary (Level 0),Northern and Western,,Other
+2021,Female,Less than primary (Level 0),Southern,,Other
+2021,Female,Less than primary (Level 0),Eastern and Midland,,Other
+2021,Female,Primary and lower secondary education (Levels 1-2),Ireland,33.0,Low
+2021,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,33.5,Low
+2021,Female,Primary and lower secondary education (Levels 1-2),Southern,28.5,Low
+2021,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,35.7,Low
+2021,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,61.7,Medium
+2021,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,61.5,Medium
+2021,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,61.9,Medium
+2021,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,61.6,Medium
+2021,Female,Tertiary education (Levels 5-8),Ireland,82.2,High
+2021,Female,Tertiary education (Levels 5-8),Northern and Western,83.0,High
+2021,Female,Tertiary education (Levels 5-8),Southern,80.2,High
+2021,Female,Tertiary education (Levels 5-8),Eastern and Midland,83.1,High
+2021,Female,Level of education - not stated,Ireland,64.0,Other
+2021,Female,Level of education - not stated,Northern and Western,,Other
+2021,Female,Level of education - not stated,Southern,60.6,Other
+2021,Female,Level of education - not stated,Eastern and Midland,65.2,Other
 2022,Both sexes,Levels of Education (Levels  0-8),Ireland,78.1,Other
-2022,Both sexes,Primary and lower secondary education (Levels 1-2),Ireland,53.5,Low
-2022,Both sexes,Tertiary education (Levels 5-8),Ireland,87.4,Other
-2022,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,73.0,Medium
-2022,Female,Less than primary (Level 0),Ireland,,Other
-2022,Female,Level of education - not stated,Ireland,72.7,Other
-2022,Female,Levels of Education (Levels  0-8),Ireland,72.7,Other
-2022,Female,Primary and lower secondary education (Levels 1-2),Ireland,36.6,Low
-2022,Female,Tertiary education (Levels 5-8),Ireland,83.5,Other
-2022,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,65.4,Medium
-2022,Male,Less than primary (Level 0),Ireland,,Other
-2022,Male,Level of education - not stated,Ireland,74.6,Other
-2022,Male,Levels of Education (Levels  0-8),Ireland,83.6,Other
-2022,Male,Primary and lower secondary education (Levels 1-2),Ireland,65.8,Low
-2022,Male,Tertiary education (Levels 5-8),Ireland,92.0,Other
-2022,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,80.2,Medium
-2022,Both sexes,Less than primary (Level 0),Northern and Western,,Other
-2022,Both sexes,Level of education - not stated,Northern and Western,81.1,Other
 2022,Both sexes,Levels of Education (Levels  0-8),Northern and Western,78.5,Other
-2022,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,58.7,Low
-2022,Both sexes,Tertiary education (Levels 5-8),Northern and Western,87.8,Other
-2022,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,73.7,Medium
-2022,Female,Less than primary (Level 0),Northern and Western,,Other
-2022,Female,Level of education - not stated,Northern and Western,,Other
-2022,Female,Levels of Education (Levels  0-8),Northern and Western,73.2,Other
-2022,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,,Low
-2022,Female,Tertiary education (Levels 5-8),Northern and Western,82.9,Other
-2022,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,68.5,Medium
-2022,Male,Less than primary (Level 0),Northern and Western,,Other
-2022,Male,Level of education - not stated,Northern and Western,,Other
-2022,Male,Levels of Education (Levels  0-8),Northern and Western,83.9,Other
-2022,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,72.8,Low
-2022,Male,Tertiary education (Levels 5-8),Northern and Western,94.0,Other
-2022,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,78.7,Medium
-2022,Both sexes,Less than primary (Level 0),Southern,,Other
-2022,Both sexes,Level of education - not stated,Southern,73.8,Other
 2022,Both sexes,Levels of Education (Levels  0-8),Southern,76.4,Other
+2022,Both sexes,Levels of Education (Levels  0-8),Eastern and Midland,79.0,Other
+2022,Both sexes,Less than primary (Level 0),Ireland,,Other
+2022,Both sexes,Less than primary (Level 0),Northern and Western,,Other
+2022,Both sexes,Less than primary (Level 0),Southern,,Other
+2022,Both sexes,Less than primary (Level 0),Eastern and Midland,,Other
+2022,Both sexes,Primary and lower secondary education (Levels 1-2),Ireland,53.5,Low
+2022,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,58.7,Low
 2022,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,51.1,Low
-2022,Both sexes,Tertiary education (Levels 5-8),Southern,86.5,Other
+2022,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,53.2,Low
+2022,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,73.0,Medium
+2022,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,73.7,Medium
 2022,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,71.8,Medium
-2022,Female,Less than primary (Level 0),Southern,,Other
-2022,Female,Level of education - not stated,Southern,,Other
-2022,Female,Levels of Education (Levels  0-8),Southern,71.2,Other
-2022,Female,Primary and lower secondary education (Levels 1-2),Southern,35.2,Low
-2022,Female,Tertiary education (Levels 5-8),Southern,83.5,Other
-2022,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,62.6,Medium
-2022,Male,Less than primary (Level 0),Southern,,Other
-2022,Male,Level of education - not stated,Southern,,Other
+2022,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,73.7,Medium
+2022,Both sexes,Tertiary education (Levels 5-8),Ireland,87.4,High
+2022,Both sexes,Tertiary education (Levels 5-8),Northern and Western,87.8,High
+2022,Both sexes,Tertiary education (Levels 5-8),Southern,86.5,High
+2022,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,87.8,High
+2022,Both sexes,Level of education - not stated,Ireland,73.8,Other
+2022,Both sexes,Level of education - not stated,Northern and Western,81.1,Other
+2022,Both sexes,Level of education - not stated,Southern,73.8,Other
+2022,Both sexes,Level of education - not stated,Eastern and Midland,68.3,Other
+2022,Male,Levels of Education (Levels  0-8),Ireland,83.6,Other
+2022,Male,Levels of Education (Levels  0-8),Northern and Western,83.9,Other
 2022,Male,Levels of Education (Levels  0-8),Southern,81.8,Other
+2022,Male,Levels of Education (Levels  0-8),Eastern and Midland,84.6,Other
+2022,Male,Less than primary (Level 0),Ireland,,Other
+2022,Male,Less than primary (Level 0),Northern and Western,,Other
+2022,Male,Less than primary (Level 0),Southern,,Other
+2022,Male,Less than primary (Level 0),Eastern and Midland,,Other
+2022,Male,Primary and lower secondary education (Levels 1-2),Ireland,65.8,Low
+2022,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,72.8,Low
 2022,Male,Primary and lower secondary education (Levels 1-2),Southern,62.5,Low
-2022,Male,Tertiary education (Levels 5-8),Southern,90.4,Other
+2022,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,65.4,Low
+2022,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,80.2,Medium
+2022,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,78.7,Medium
 2022,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,79.6,Medium
-2023,Both sexes,Less than primary (Level 0),Eastern and Midland,,Other
-2023,Both sexes,Level of education - not stated,Eastern and Midland,71.6,Other
-2023,Both sexes,Levels of Education (Levels  0-8),Eastern and Midland,80.7,Other
-2023,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,55.9,Low
-2023,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,88.5,Other
-2023,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,73.8,Medium
-2023,Female,Less than primary (Level 0),Eastern and Midland,,Other
-2023,Female,Level of education - not stated,Eastern and Midland,67.5,Other
-2023,Female,Levels of Education (Levels  0-8),Eastern and Midland,75.3,Other
-2023,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,40.0,Low
-2023,Female,Tertiary education (Levels 5-8),Eastern and Midland,85.5,Other
-2023,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,63.2,Medium
-2023,Male,Less than primary (Level 0),Eastern and Midland,,Other
-2023,Male,Level of education - not stated,Eastern and Midland,77.0,Other
-2023,Male,Levels of Education (Levels  0-8),Eastern and Midland,86.3,Other
-2023,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,67.7,Low
-2023,Male,Tertiary education (Levels 5-8),Eastern and Midland,92.1,Other
-2023,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,83.1,Medium
-2023,Both sexes,Less than primary (Level 0),Ireland,,Other
-2023,Both sexes,Level of education - not stated,Ireland,72.5,Other
+2022,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,81.2,Medium
+2022,Male,Tertiary education (Levels 5-8),Ireland,92.0,High
+2022,Male,Tertiary education (Levels 5-8),Northern and Western,94.0,High
+2022,Male,Tertiary education (Levels 5-8),Southern,90.4,High
+2022,Male,Tertiary education (Levels 5-8),Eastern and Midland,92.4,High
+2022,Male,Level of education - not stated,Ireland,74.6,Other
+2022,Male,Level of education - not stated,Northern and Western,,Other
+2022,Male,Level of education - not stated,Southern,,Other
+2022,Male,Level of education - not stated,Eastern and Midland,63.2,Other
+2022,Female,Levels of Education (Levels  0-8),Ireland,72.7,Other
+2022,Female,Levels of Education (Levels  0-8),Northern and Western,73.2,Other
+2022,Female,Levels of Education (Levels  0-8),Southern,71.2,Other
+2022,Female,Levels of Education (Levels  0-8),Eastern and Midland,73.5,Other
+2022,Female,Less than primary (Level 0),Ireland,,Other
+2022,Female,Less than primary (Level 0),Northern and Western,,Other
+2022,Female,Less than primary (Level 0),Southern,,Other
+2022,Female,Less than primary (Level 0),Eastern and Midland,,Other
+2022,Female,Primary and lower secondary education (Levels 1-2),Ireland,36.6,Low
+2022,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,,Low
+2022,Female,Primary and lower secondary education (Levels 1-2),Southern,35.2,Low
+2022,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,38.5,Low
+2022,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,65.4,Medium
+2022,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,68.5,Medium
+2022,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,62.6,Medium
+2022,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,66.2,Medium
+2022,Female,Tertiary education (Levels 5-8),Ireland,83.5,High
+2022,Female,Tertiary education (Levels 5-8),Northern and Western,82.9,High
+2022,Female,Tertiary education (Levels 5-8),Southern,83.5,High
+2022,Female,Tertiary education (Levels 5-8),Eastern and Midland,83.6,High
+2022,Female,Level of education - not stated,Ireland,72.7,Other
+2022,Female,Level of education - not stated,Northern and Western,,Other
+2022,Female,Level of education - not stated,Southern,,Other
+2022,Female,Level of education - not stated,Eastern and Midland,,Other
 2023,Both sexes,Levels of Education (Levels  0-8),Ireland,79.5,Other
-2023,Both sexes,Primary and lower secondary education (Levels 1-2),Ireland,57.9,Low
-2023,Both sexes,Tertiary education (Levels 5-8),Ireland,87.1,Other
-2023,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,73.9,Medium
-2023,Female,Less than primary (Level 0),Ireland,,Other
-2023,Female,Level of education - not stated,Ireland,64.9,Other
-2023,Female,Levels of Education (Levels  0-8),Ireland,74.2,Other
-2023,Female,Primary and lower secondary education (Levels 1-2),Ireland,40.1,Low
-2023,Female,Tertiary education (Levels 5-8),Ireland,83.7,Other
-2023,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,65.1,Medium
-2023,Male,Less than primary (Level 0),Ireland,,Other
-2023,Male,Level of education - not stated,Ireland,80.1,Other
-2023,Male,Levels of Education (Levels  0-8),Ireland,85.0,Other
-2023,Male,Primary and lower secondary education (Levels 1-2),Ireland,69.5,Low
-2023,Male,Tertiary education (Levels 5-8),Ireland,91.3,Other
-2023,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,81.7,Medium
-2023,Both sexes,Less than primary (Level 0),Northern and Western,,Other
-2023,Both sexes,Level of education - not stated,Northern and Western,,Other
 2023,Both sexes,Levels of Education (Levels  0-8),Northern and Western,78.2,Other
-2023,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,58.8,Low
-2023,Both sexes,Tertiary education (Levels 5-8),Northern and Western,84.4,Other
-2023,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,76.9,Medium
-2023,Female,Less than primary (Level 0),Northern and Western,,Other
-2023,Female,Level of education - not stated,Northern and Western,,Other
-2023,Female,Levels of Education (Levels  0-8),Northern and Western,72.7,Other
-2023,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,40.0,Low
-2023,Female,Tertiary education (Levels 5-8),Northern and Western,80.2,Other
-2023,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,70.2,Medium
-2023,Male,Less than primary (Level 0),Northern and Western,,Other
-2023,Male,Level of education - not stated,Northern and Western,,Other
-2023,Male,Levels of Education (Levels  0-8),Northern and Western,83.9,Other
-2023,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,71.4,Low
-2023,Male,Tertiary education (Levels 5-8),Northern and Western,89.6,Other
-2023,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,82.7,Medium
-2023,Both sexes,Less than primary (Level 0),Southern,,Other
-2023,Both sexes,Level of education - not stated,Southern,77.7,Other
 2023,Both sexes,Levels of Education (Levels  0-8),Southern,78.3,Other
+2023,Both sexes,Levels of Education (Levels  0-8),Eastern and Midland,80.7,Other
+2023,Both sexes,Less than primary (Level 0),Ireland,,Other
+2023,Both sexes,Less than primary (Level 0),Northern and Western,,Other
+2023,Both sexes,Less than primary (Level 0),Southern,,Other
+2023,Both sexes,Less than primary (Level 0),Eastern and Midland,,Other
+2023,Both sexes,Primary and lower secondary education (Levels 1-2),Ireland,57.9,Low
+2023,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,58.8,Low
 2023,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,59.5,Low
-2023,Both sexes,Tertiary education (Levels 5-8),Southern,86.1,Other
+2023,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,55.9,Low
+2023,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,73.9,Medium
+2023,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,76.9,Medium
 2023,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,72.6,Medium
-2023,Female,Less than primary (Level 0),Southern,,Other
-2023,Female,Level of education - not stated,Southern,,Other
-2023,Female,Levels of Education (Levels  0-8),Southern,73.3,Other
-2023,Female,Primary and lower secondary education (Levels 1-2),Southern,40.4,Low
-2023,Female,Tertiary education (Levels 5-8),Southern,82.6,Other
-2023,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,65.1,Medium
-2023,Male,Less than primary (Level 0),Southern,,Other
-2023,Male,Level of education - not stated,Southern,86.4,Other
+2023,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,73.8,Medium
+2023,Both sexes,Tertiary education (Levels 5-8),Ireland,87.1,High
+2023,Both sexes,Tertiary education (Levels 5-8),Northern and Western,84.4,High
+2023,Both sexes,Tertiary education (Levels 5-8),Southern,86.1,High
+2023,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,88.5,High
+2023,Both sexes,Level of education - not stated,Ireland,72.5,Other
+2023,Both sexes,Level of education - not stated,Northern and Western,,Other
+2023,Both sexes,Level of education - not stated,Southern,77.7,Other
+2023,Both sexes,Level of education - not stated,Eastern and Midland,71.6,Other
+2023,Male,Levels of Education (Levels  0-8),Ireland,85.0,Other
+2023,Male,Levels of Education (Levels  0-8),Northern and Western,83.9,Other
 2023,Male,Levels of Education (Levels  0-8),Southern,83.4,Other
+2023,Male,Levels of Education (Levels  0-8),Eastern and Midland,86.3,Other
+2023,Male,Less than primary (Level 0),Ireland,,Other
+2023,Male,Less than primary (Level 0),Northern and Western,,Other
+2023,Male,Less than primary (Level 0),Southern,,Other
+2023,Male,Less than primary (Level 0),Eastern and Midland,,Other
+2023,Male,Primary and lower secondary education (Levels 1-2),Ireland,69.5,Low
+2023,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,71.4,Low
 2023,Male,Primary and lower secondary education (Levels 1-2),Southern,70.5,Low
-2023,Male,Tertiary education (Levels 5-8),Southern,90.8,Other
+2023,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,67.7,Low
+2023,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,81.7,Medium
+2023,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,82.7,Medium
 2023,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,79.3,Medium
-2024,Both sexes,Less than primary (Level 0),Eastern and Midland,,Other
-2024,Both sexes,Level of education - not stated,Eastern and Midland,75.1,Other
-2024,Both sexes,Levels of Education (Levels  0-8),Eastern and Midland,80.8,Other
-2024,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,56.8,Low
-2024,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,87.6,Other
-2024,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,76.1,Medium
-2024,Female,Less than primary (Level 0),Eastern and Midland,,Other
-2024,Female,Level of education - not stated,Eastern and Midland,64.1,Other
-2024,Female,Levels of Education (Levels  0-8),Eastern and Midland,76.2,Other
-2024,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,41.7,Low
-2024,Female,Tertiary education (Levels 5-8),Eastern and Midland,84.9,Other
-2024,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,68.5,Medium
-2024,Male,Less than primary (Level 0),Eastern and Midland,,Other
-2024,Male,Level of education - not stated,Eastern and Midland,86.3,Other
-2024,Male,Levels of Education (Levels  0-8),Eastern and Midland,85.6,Other
-2024,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,67.3,Low
-2024,Male,Tertiary education (Levels 5-8),Eastern and Midland,90.6,Other
-2024,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,83.3,Medium
-2024,Both sexes,Less than primary (Level 0),Ireland,,Other
-2024,Both sexes,Level of education - not stated,Ireland,78.7,Other
+2023,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,83.1,Medium
+2023,Male,Tertiary education (Levels 5-8),Ireland,91.3,High
+2023,Male,Tertiary education (Levels 5-8),Northern and Western,89.6,High
+2023,Male,Tertiary education (Levels 5-8),Southern,90.8,High
+2023,Male,Tertiary education (Levels 5-8),Eastern and Midland,92.1,High
+2023,Male,Level of education - not stated,Ireland,80.1,Other
+2023,Male,Level of education - not stated,Northern and Western,,Other
+2023,Male,Level of education - not stated,Southern,86.4,Other
+2023,Male,Level of education - not stated,Eastern and Midland,77.0,Other
+2023,Female,Levels of Education (Levels  0-8),Ireland,74.2,Other
+2023,Female,Levels of Education (Levels  0-8),Northern and Western,72.7,Other
+2023,Female,Levels of Education (Levels  0-8),Southern,73.3,Other
+2023,Female,Levels of Education (Levels  0-8),Eastern and Midland,75.3,Other
+2023,Female,Less than primary (Level 0),Ireland,,Other
+2023,Female,Less than primary (Level 0),Northern and Western,,Other
+2023,Female,Less than primary (Level 0),Southern,,Other
+2023,Female,Less than primary (Level 0),Eastern and Midland,,Other
+2023,Female,Primary and lower secondary education (Levels 1-2),Ireland,40.1,Low
+2023,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,40.0,Low
+2023,Female,Primary and lower secondary education (Levels 1-2),Southern,40.4,Low
+2023,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,40.0,Low
+2023,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,65.1,Medium
+2023,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,70.2,Medium
+2023,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,65.1,Medium
+2023,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,63.2,Medium
+2023,Female,Tertiary education (Levels 5-8),Ireland,83.7,High
+2023,Female,Tertiary education (Levels 5-8),Northern and Western,80.2,High
+2023,Female,Tertiary education (Levels 5-8),Southern,82.6,High
+2023,Female,Tertiary education (Levels 5-8),Eastern and Midland,85.5,High
+2023,Female,Level of education - not stated,Ireland,64.9,Other
+2023,Female,Level of education - not stated,Northern and Western,,Other
+2023,Female,Level of education - not stated,Southern,,Other
+2023,Female,Level of education - not stated,Eastern and Midland,67.5,Other
 2024,Both sexes,Levels of Education (Levels  0-8),Ireland,79.8,Other
-2024,Both sexes,Primary and lower secondary education (Levels 1-2),Ireland,54.7,Low
-2024,Both sexes,Tertiary education (Levels 5-8),Ireland,87.1,Other
-2024,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,75.5,Medium
-2024,Female,Less than primary (Level 0),Ireland,,Other
-2024,Female,Level of education - not stated,Ireland,69.8,Other
-2024,Female,Levels of Education (Levels  0-8),Ireland,75.4,Other
-2024,Female,Primary and lower secondary education (Levels 1-2),Ireland,39.5,Low
-2024,Female,Tertiary education (Levels 5-8),Ireland,84.5,Other
-2024,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,67.9,Medium
-2024,Male,Less than primary (Level 0),Ireland,,Other
-2024,Male,Level of education - not stated,Ireland,87.1,Other
-2024,Male,Levels of Education (Levels  0-8),Ireland,84.3,Other
-2024,Male,Primary and lower secondary education (Levels 1-2),Ireland,64.3,Low
-2024,Male,Tertiary education (Levels 5-8),Ireland,90.3,Other
-2024,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,82.6,Medium
-2024,Both sexes,Less than primary (Level 0),Northern and Western,,Other
-2024,Both sexes,Level of education - not stated,Northern and Western,86.2,Other
 2024,Both sexes,Levels of Education (Levels  0-8),Northern and Western,78.4,Other
-2024,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,57.5,Low
-2024,Both sexes,Tertiary education (Levels 5-8),Northern and Western,85.6,Other
-2024,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,73.8,Medium
-2024,Female,Less than primary (Level 0),Northern and Western,,Other
-2024,Female,Level of education - not stated,Northern and Western,,Other
-2024,Female,Levels of Education (Levels  0-8),Northern and Western,74.9,Other
-2024,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,,Low
-2024,Female,Tertiary education (Levels 5-8),Northern and Western,83.2,Other
-2024,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,67.0,Medium
-2024,Male,Less than primary (Level 0),Northern and Western,,Other
-2024,Male,Level of education - not stated,Northern and Western,,Other
-2024,Male,Levels of Education (Levels  0-8),Northern and Western,81.9,Other
-2024,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,64.6,Low
-2024,Male,Tertiary education (Levels 5-8),Northern and Western,88.7,Other
-2024,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,80.4,Medium
-2024,Both sexes,Less than primary (Level 0),Southern,,Other
-2024,Both sexes,Level of education - not stated,Southern,80.5,Other
 2024,Both sexes,Levels of Education (Levels  0-8),Southern,78.8,Other
+2024,Both sexes,Levels of Education (Levels  0-8),Eastern and Midland,80.8,Other
+2024,Both sexes,Less than primary (Level 0),Ireland,,Other
+2024,Both sexes,Less than primary (Level 0),Northern and Western,,Other
+2024,Both sexes,Less than primary (Level 0),Southern,,Other
+2024,Both sexes,Less than primary (Level 0),Eastern and Midland,,Other
+2024,Both sexes,Primary and lower secondary education (Levels 1-2),Ireland,54.7,Low
+2024,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,57.5,Low
 2024,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,50.4,Low
-2024,Both sexes,Tertiary education (Levels 5-8),Southern,87.2,Other
+2024,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,56.8,Low
+2024,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,75.5,Medium
+2024,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,73.8,Medium
 2024,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,75.4,Medium
-2024,Female,Less than primary (Level 0),Southern,,Other
-2024,Female,Level of education - not stated,Southern,,Other
-2024,Female,Levels of Education (Levels  0-8),Southern,74.3,Other
-2024,Female,Primary and lower secondary education (Levels 1-2),Southern,35.7,Low
-2024,Female,Tertiary education (Levels 5-8),Southern,84.5,Other
-2024,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,67.4,Medium
-2024,Male,Less than primary (Level 0),Southern,,Other
-2024,Male,Level of education - not stated,Southern,87.7,Other
+2024,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,76.1,Medium
+2024,Both sexes,Tertiary education (Levels 5-8),Ireland,87.1,High
+2024,Both sexes,Tertiary education (Levels 5-8),Northern and Western,85.6,High
+2024,Both sexes,Tertiary education (Levels 5-8),Southern,87.2,High
+2024,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,87.6,High
+2024,Both sexes,Level of education - not stated,Ireland,78.7,Other
+2024,Both sexes,Level of education - not stated,Northern and Western,86.2,Other
+2024,Both sexes,Level of education - not stated,Southern,80.5,Other
+2024,Both sexes,Level of education - not stated,Eastern and Midland,75.1,Other
+2024,Male,Levels of Education (Levels  0-8),Ireland,84.3,Other
+2024,Male,Levels of Education (Levels  0-8),Northern and Western,81.9,Other
 2024,Male,Levels of Education (Levels  0-8),Southern,83.4,Other
+2024,Male,Levels of Education (Levels  0-8),Eastern and Midland,85.6,Other
+2024,Male,Less than primary (Level 0),Ireland,,Other
+2024,Male,Less than primary (Level 0),Northern and Western,,Other
+2024,Male,Less than primary (Level 0),Southern,,Other
+2024,Male,Less than primary (Level 0),Eastern and Midland,,Other
+2024,Male,Primary and lower secondary education (Levels 1-2),Ireland,64.3,Low
+2024,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,64.6,Low
 2024,Male,Primary and lower secondary education (Levels 1-2),Southern,60.4,Low
-2024,Male,Tertiary education (Levels 5-8),Southern,90.6,Other
+2024,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,67.3,Low
+2024,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,82.6,Medium
+2024,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,80.4,Medium
 2024,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,82.7,Medium
+2024,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,83.3,Medium
+2024,Male,Tertiary education (Levels 5-8),Ireland,90.3,High
+2024,Male,Tertiary education (Levels 5-8),Northern and Western,88.7,High
+2024,Male,Tertiary education (Levels 5-8),Southern,90.6,High
+2024,Male,Tertiary education (Levels 5-8),Eastern and Midland,90.6,High
+2024,Male,Level of education - not stated,Ireland,87.1,Other
+2024,Male,Level of education - not stated,Northern and Western,,Other
+2024,Male,Level of education - not stated,Southern,87.7,Other
+2024,Male,Level of education - not stated,Eastern and Midland,86.3,Other
+2024,Female,Levels of Education (Levels  0-8),Ireland,75.4,Other
+2024,Female,Levels of Education (Levels  0-8),Northern and Western,74.9,Other
+2024,Female,Levels of Education (Levels  0-8),Southern,74.3,Other
+2024,Female,Levels of Education (Levels  0-8),Eastern and Midland,76.2,Other
+2024,Female,Less than primary (Level 0),Ireland,,Other
+2024,Female,Less than primary (Level 0),Northern and Western,,Other
+2024,Female,Less than primary (Level 0),Southern,,Other
+2024,Female,Less than primary (Level 0),Eastern and Midland,,Other
+2024,Female,Primary and lower secondary education (Levels 1-2),Ireland,39.5,Low
+2024,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,,Low
+2024,Female,Primary and lower secondary education (Levels 1-2),Southern,35.7,Low
+2024,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,41.7,Low
+2024,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Ireland,67.9,Medium
+2024,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,67.0,Medium
+2024,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,67.4,Medium
+2024,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,68.5,Medium
+2024,Female,Tertiary education (Levels 5-8),Ireland,84.5,High
+2024,Female,Tertiary education (Levels 5-8),Northern and Western,83.2,High
+2024,Female,Tertiary education (Levels 5-8),Southern,84.5,High
+2024,Female,Tertiary education (Levels 5-8),Eastern and Midland,84.9,High
+2024,Female,Level of education - not stated,Ireland,69.8,Other
+2024,Female,Level of education - not stated,Northern and Western,,Other
+2024,Female,Level of education - not stated,Southern,,Other
+2024,Female,Level of education - not stated,Eastern and Midland,64.1,Other
